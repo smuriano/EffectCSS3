@@ -1,4 +1,4 @@
-# Efeito máquina de escrever com HTML5 e CSS3 puro
+# Efeito máquina de escrever
 
 ## Comandos CSS3 utilizados
 * `@keyframes` para criar os efeitos a serem utilizados
