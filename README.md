@@ -12,3 +12,11 @@ Efeitos com HTML5 e CSS3 puro conforme vídeos e twitters do [Willian Justen](ht
 ## Revelar o texto atrás do bloco (Reveal Block)
 * Utilize a pasta `RevealBlock`
 * [Readme](./RevealBlock/README.md)
+
+## Cores de fundo em formato Gradient com movimento (Gradient Background)
+* Utilize a pasta `GradientBackground`
+* [Readme](./GradientBackground/README.md)
+
+## Textos responsivos sem media queries (@media)
+* Utilize a pasta `ResponsiveText`
+* [Readme](./ResponsiveText/README.md)

@@ -1,4 +1,4 @@
-# Cores de fundo com formato Gradient e em movimento
+# Cores de fundo em formato Gradient com movimento
 
 ## Comandos CSS3 utilizados
 * `@keyframes` para criar os efeitos a serem utilizados
